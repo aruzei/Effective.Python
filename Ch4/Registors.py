@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-CHAPTER3
+CHAPTER4
 """
 
 class Registor(object):
